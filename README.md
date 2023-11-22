@@ -1,6 +1,8 @@
 # PowerSearch Module
 
-PowerSearch is a PowerShell module that allows you to perform web searches directly from the command line by opening your default browser with the search results. Search in Google, YouTube, Bing, DuckDuckGo, StackOverflow, and GitHub.
+PowerSearch is a PowerShell module that allows you to perform web searches directly from the command line by opening your default browser with the search results. 
+
+Search in Google, YouTube, Bing, DuckDuckGo, StackOverflow, and GitHub.
 
 ## Functions
 
