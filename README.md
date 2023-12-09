@@ -9,9 +9,7 @@ Search in Google, YouTube, Bing, DuckDuckGo, StackOverflow, and GitHub.
 ### `PowerSearch`
 Performs a web search based on the specified engine and search query.
 
-```powershell
-PowerSearch -engine <EngineName> -searchQuery <SearchQuery>
-```
+
 ### Aliases
 Short functions are provided for each search engine that can be used in the terminal:
     
